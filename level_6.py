@@ -1,6 +1,6 @@
 import zipfile
 
-file = zipfile.ZipFile("data/channel.zip", "r") # opens zipfile in "r" = read mode
+file = zipfile.ZipFile("Data/channel.zip", "r") # opens zipfile in "r" = read mode
      
 all_comments = ""
 ## list file information 

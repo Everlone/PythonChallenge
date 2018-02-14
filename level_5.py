@@ -1,6 +1,6 @@
 import pickle
 
-mess = open("data/level_5_banner.p").read()     #  reads in all the text as a single string
+mess = open("Data/level_5_banner.p").read()     #  reads in all the text as a single string
 # print(mess)
 
 mess = str.encode(mess)    # convert string to bytes ready for pickle

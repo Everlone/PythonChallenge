@@ -1,6 +1,6 @@
 from PIL import Image  # import python imaging library (pillow 2.2.1 library)
 
-im = Image.open("data/level_7_oxygen.png")  # load image
+im = Image.open("Data/level_7_oxygen.png")  # load image
 print(im.format, im.size, im.mode) # show image details
 x=im.size                       
 print(x[0],x[1])              # show image width and height
