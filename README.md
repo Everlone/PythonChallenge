@@ -1,6 +1,6 @@
 # PythonChallenge
 
-These are my solutions to the Python Challenge. 
+These are my solutions to the Python Challenge (http://www.pythonchallenge.com). 
 
 All graphics, text files, etc. related to the Challenges are stored in the Data sub-directory.
 
