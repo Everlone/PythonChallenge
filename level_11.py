@@ -1,3 +1,14 @@
+'''
+level_11.py
+Python Challenge level 11
+Separate the image into even and odd pixels.
+Output as two separate images.
+
+http://www.pythonchallenge.com/pc/return/5808.html
+un: huge
+pw: file
+'''
+
 from PIL import Image
 
 im = Image.open("Data/cave.jpg")  # load image

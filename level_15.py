@@ -1,3 +1,16 @@
+'''
+level_15.py
+Python Challenge level 15
+Find a person related to January 26th in a year between 1006 and 1996 (based on image),
+where the January starts on a Thursday.
+This limits me to a selection of years, and a Google search reveals Mozart.
+
+http://www.pythonchallenge.com/pc/return/cat.html
+http://www.pythonchallenge.com/pc/return/uzi.html
+un: huge
+pw: file
+'''
+
 import calendar
 
 start_day = 3

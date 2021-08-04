@@ -1,4 +1,13 @@
+'''
+level_12.py
+Python Challenge level 12
+Image contains five different graphics files interlaced, two jog, two png, and a gif.
+Separate every fifth byte into a separate graphics files. 
 
+http://www.pythonchallenge.com/pc/return/evil.html
+un: huge
+pw: file
+'''
 
 mess = open("Data/evil2.gfx","rb").read()          
 print(mess[500:550])

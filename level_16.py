@@ -1,3 +1,14 @@
+'''
+level_16.py
+Python Challenge level 16
+Every line of the graphic contains a block of 5 pixels of pink, with values 195.
+Shift each line of the graphic so the pink blocks align to create an image.
+
+http://www.pythonchallenge.com/pc/return/mozart.html
+un: huge
+pw: file
+'''
+
 from PIL import Image
 
 im = Image.open("Data/level_16_mozart.gif")  # load image

@@ -3,7 +3,9 @@ level_02.py
 Python Challenge level 2
 Finding unusual letters in long string.
 First approach assumes I`m looking for letters.
-Secondapproach uses collections.Counter to find rare characters 
+Second approach uses collections.Counter to find rare characters 
+
+http://www.pythonchallenge.com/pc/def/ocr.html
 '''
 
 mess = open('Data/level_02.txt','r').read() 

@@ -4,6 +4,8 @@ Python Challenge level 8
 Decompress two strings encoded with BZ.
 In Python 3, the decompress method requires bytes, NOT str.
 The strings have been copied in but an initial 'b' added to indicate they are in bytes.
+
+http://www.pythonchallenge.com/pc/def/integrity.html
 '''
 
 import bz2

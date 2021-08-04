@@ -4,6 +4,8 @@ Python Challenge level 5
 Unpickle hidden file, banner.p.
 Pickle requires binary so open as binary.
 Rebuild pattern in lines, blocks, and individual multiples of symbols.
+
+http://www.pythonchallenge.com/pc/def/peak.html
 '''
 
 import pickle 

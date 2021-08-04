@@ -5,6 +5,8 @@ Read the graphic, strip out the grey scale line, convert
 the strip to characteris.
 Resulting string contains new numbers separated by commas.
 Remove space, find the []s around the numbers and extract the numbers.
+
+http://www.pythonchallenge.com/pc/def/oxygen.html
 '''
 
 from PIL import Image

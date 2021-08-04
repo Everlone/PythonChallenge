@@ -13,6 +13,9 @@ Better solution uses Re, but the patten is very complicated.
 For example:
   "".join([str(len(m[0]))+m[0][0] for m in re.finditer(r"(\d)\1*", a)])
 
+http://www.pythonchallenge.com/pc/return/bull.html
+un: huge
+pw: file
 '''
 
 import numpy as np

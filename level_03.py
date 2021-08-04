@@ -2,6 +2,8 @@
 level_03.py
 Python Challenge level 3
 Pattern matching in strings.
+
+http://www.pythonchallenge.com/pc/def/equality.html
 '''
 
 from re import findall

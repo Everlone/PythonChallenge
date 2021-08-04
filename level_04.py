@@ -4,6 +4,8 @@ Python Challenge level 4
 Follow links based on text strings.
 Need to divide by two part way through.
 Stops when there is a 'html' on the page.
+
+http://www.pythonchallenge.com/pc/def/linkedlist.php
 '''
 
 import urllib.request as url

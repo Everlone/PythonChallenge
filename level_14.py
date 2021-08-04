@@ -1,3 +1,14 @@
+'''
+level_14.py
+Python Challenge level 14
+Wrap linear list of pixels into swirl structure.
+10,000 pixles makes a picture of 100x100.
+
+http://www.pythonchallenge.com/pc/return/italy.html
+un: huge
+pw: file
+'''
+
 from PIL import Image
 
 length = [99]

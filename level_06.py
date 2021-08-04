@@ -6,6 +6,8 @@ like the linked list.
 The readme file says to start from 90052.
 Comments are collected and include \\ and n which needs to be replaced with \n.
 This allows the printing to seperated the obtained lines.
+
+http://www.pythonchallenge.com/pc/def/channel.html
 '''
 
 from zipfile import ZipFile

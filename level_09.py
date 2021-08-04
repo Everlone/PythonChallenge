@@ -3,6 +3,10 @@ level_09.py
 Python Challenge level 9
 Draw an image by connecting the dots from coordinates.
 Note: Coordinates appear to be in pairs. 
+
+http://www.pythonchallenge.com/pc/return/good.html
+un: huge
+pw: file
 '''
 
 from PIL import Image, ImageDraw
